@@ -20,5 +20,16 @@ Complexity of the hand landmark model: 0 or 1. Landmark accuracy as well as infe
 MIN_DETECTION_CONFIDENCE
 Minimum confidence value ([0.0, 1.0]) from the hand detection model for the detection to be considered successful. Default to 0.5.
 
+
+
 MIN_TRACKING_CONFIDENCE:
 Minimum confidence value ([0.0, 1.0]) from the landmark-tracking model for the hand landmarks to be considered tracked successfully, or otherwise hand detection will be invoked automatically on the next input image. Setting it to a higher value can increase robustness of the solution, at the expense of a higher latency. Ignored if static_image_mode is true, where hand detection simply runs on every image. Default to 0.5.
+
+
+
+
+![image](https://github.com/Grunt-prog/Gesture-Volume-Control/assets/86661317/9165a78f-c63d-4d94-aa20-4413ad90b87c
+
+
+![image](https://github.com/Grunt-prog/Gesture-Volume-Control/assets/86661317/90789db4-aef6-4511-8cb7-71ec7c80c4d8)
+
