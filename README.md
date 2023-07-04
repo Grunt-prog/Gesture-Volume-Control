@@ -44,3 +44,12 @@ Minimum confidence value ([0.0, 1.0]) from the landmark-tracking model for the h
 
 ![image](https://github.com/Grunt-prog/Gesture-Volume-Control/assets/86661317/90789db4-aef6-4511-8cb7-71ec7c80c4d8)
 
+
+**Output**
+
+
+https://github.com/Grunt-prog/Gesture-Volume-Control/assets/86661317/6040f188-1f26-48c6-80e5-40a31ec0bc5e
+
+
+
+
