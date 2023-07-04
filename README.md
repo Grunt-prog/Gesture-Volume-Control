@@ -8,7 +8,7 @@ To obtain ground truth data, we have manually annotated ~30K real-world images w
 coordinate). To better cover the possible hand poses and provide additional supervision on the nature of hand geometry, we also render a high-quality synthetic hand model over various
 backgrounds and map it to the corresponding 3D coordinates.
 
-**Solution APIs
+**Solution APIs**
 
 Configuration Options
 
