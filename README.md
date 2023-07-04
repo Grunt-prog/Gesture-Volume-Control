@@ -48,7 +48,8 @@ Minimum confidence value ([0.0, 1.0]) from the landmark-tracking model for the h
 **Output**
 
 
-https://github.com/Grunt-prog/Gesture-Volume-Control/assets/86661317/6040f188-1f26-48c6-80e5-40a31ec0bc5e
+![20230704-2136-45 2451774 (online-video-cutter com)](https://github.com/Grunt-prog/Gesture-Volume-Control/assets/86661317/22bca823-e4fe-47bb-9a1e-221d226a799a)
+
 
 
 
